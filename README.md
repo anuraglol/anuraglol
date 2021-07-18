@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I'm Anurag, a 14 year old Front-end Developer 
 
+![Cover Image](20210718_123202.jpg)
 <!-- **kr-anurag/kr-anurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
