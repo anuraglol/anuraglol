@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm Anurag, a 14 year old Front-end Developer 
 
 ![Cover Image](20210718_123202.jpg)
