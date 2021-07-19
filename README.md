@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: kr.anurag24@gmail.com and [Twitter](https://twitter.com/kr_anurag_)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Tailwind CSS
+- ⚡ Fun fact: Music 🎧 is what drives me!! 
 
 ## Skills:
 * HTML5
