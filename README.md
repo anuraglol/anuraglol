@@ -3,9 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=kr-anurag)
 
 ![Cover Image](20210718_123202.jpg)
-<!-- **kr-anurag/kr-anurag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning React JS
