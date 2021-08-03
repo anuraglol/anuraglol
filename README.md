@@ -5,7 +5,7 @@
 ![Cover Image](20210718_123202.jpg)
 
 - 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Next JS
 - 📫 How to reach me: kr.anurag24@gmail.com and [Twitter](https://twitter.com/kr_anurag_)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Music 🎧 is what that drives me!! 
