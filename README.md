@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=kr-anurag)
 
 ![Cover Image](20210718_123202.jpg)
+![bg](tudor-baciu-vc3iVL_znJ8-unsplash.jpg)
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Django
