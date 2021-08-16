@@ -25,5 +25,5 @@
 ## My Github Stats
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kr-anurag&show_icons=true&theme=radical)
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
-
+![joke](https://readme-jokes.vercel.app/api)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-anurag&theme=tokyonight)
