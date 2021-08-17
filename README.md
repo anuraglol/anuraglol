@@ -6,7 +6,7 @@
 ![bg](tudor-baciu-vc3iVL_znJ8-unsplash.jpg)
 
 - 🔭 I’m currently working on Frontend Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Firebase
 - 📫 How to reach me: kr.anurag24@gmail.com and [Twitter](https://twitter.com/kr_anurag_)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Music 🎧 is what that drives me!! 
