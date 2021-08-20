@@ -2,6 +2,9 @@
 ### I'm Anurag, a 14 year old Front-end Developer 
 ![](https://komarev.com/ghpvc/?username=kr-anurag)
 
+
+![](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
+
 ![Cover Image](20210718_123202.jpg)
 ![bg](tudor-baciu-vc3iVL_znJ8-unsplash.jpg)
 
