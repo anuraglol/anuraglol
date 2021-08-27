@@ -30,5 +30,7 @@
 ## My Github Stats
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kr-anurag&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kr-anurag)](https://git.io/streak-stats)
+
 ![joke](https://readme-jokes.vercel.app/api)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-anurag&theme=tokyonight)
