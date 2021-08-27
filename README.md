@@ -6,7 +6,6 @@
 ![](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
 
 ![Cover Image](20210718_123202.jpg)
-![bg](tudor-baciu-vc3iVL_znJ8-unsplash.jpg)
 
 - 🔭 I’m currently working on Frontend Development
 - 🌱 I’m currently learning Firebase
