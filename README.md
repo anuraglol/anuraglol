@@ -7,7 +7,7 @@
 
 ![Cover Image](20210718_123202.jpg)
 
-- 🔭 I’m currently working on Frontend Development
+- 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Fast API
 - 📫 How to reach me: kr.anurag24@gmail.com and [Twitter](https://twitter.com/kr_anurag_)
 - 😄 Pronouns: He/Him
