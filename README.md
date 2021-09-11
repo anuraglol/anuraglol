@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm Anurag, a 14 year old Front-end Developer 
 ![](https://komarev.com/ghpvc/?username=kr-anurag)
-
+![](https://img.shields.io/twitter/follow/kr_anurag_?style=social) 
 
 ![](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
 
