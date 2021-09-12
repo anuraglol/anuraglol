@@ -6,8 +6,6 @@
 
 ![](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
 
-![Cover Image](20210718_123202.jpg)
-
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Fast API
 - 📫 How to reach me: kr.anurag24@gmail.com and [Twitter](https://twitter.com/kr_anurag_)
@@ -15,21 +13,15 @@
 - ⚡ Fun fact: Music 🎧 is what that drives me!! 
 - 😇 I'm currently looking for help in Backend/APIs
 
-## Skills:
-* HTML5
-* CSS3
-* JavaScript 
-* jQuery
-* Tailwind CSS
-* React JS
-* JSON
-* Next JS
-* Git and Github
-
-<center>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-</center>
+## ToolBox:
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" height="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" height="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="70" height="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="70" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="70" width="70" >
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="70" width="70" >
 
 ## My Github Stats
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kr-anurag&show_icons=true&theme=radical)
