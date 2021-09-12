@@ -17,11 +17,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" height="70" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="70" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" height="70" width="70" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" height="70" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="70" height="70" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="70" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" height="70" width="70" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="70" width="70" >
+
 
 ## My Github Stats
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kr-anurag&show_icons=true&theme=radical)
