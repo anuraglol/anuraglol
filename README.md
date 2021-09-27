@@ -5,8 +5,7 @@
     I'm a 14 y/o guy working towards my wildest dreams!
 </p>
 
-<p align="center">
-    
+<p align="center">    
 - 🔭 I’m currently working on Backend Development <br>
 - 🌱 I’m currently learning Firebase 🔥 <br>
 - 📫 How to reach me: kr.anurag24@gmail.com and [Twitter](https://twitter.com/kr_anurag_) <br>
