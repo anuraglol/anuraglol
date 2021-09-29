@@ -11,7 +11,7 @@
 - 📫 How to reach me: kr.anurag24@gmail.com and <a href="https://twitter.com/kr_anurag_" >Twitter</a> <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Music 🎧 is what that drives me!!  <br>
-- 😇 I'm currently looking for help in Backend/APIs <br>
+- 😇 I'm currently looking for help in Full Stack development <br>
 </p>
 
 <p align="center">
