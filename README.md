@@ -34,7 +34,8 @@
 <p align='center'><img src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub Stats"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" alt="GitHub Streak"></a></p>
 
 
-
+<h2>Oh No!! A Snake eating my contributions!! Help! </h2>
+<img src="https://github.com/kr-anurag/kr-anurag/blob/output/github-contribution-grid-snake.gif" />
 
 <h2 align="center">📁 My Projects:</h2>
     
