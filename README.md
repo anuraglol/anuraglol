@@ -31,7 +31,7 @@
 
 
 
-<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=radical" alt="Anurag&#39;s GitHub Stats"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kr-anurag" alt="GitHub Streak"></a
+<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub Stats"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kr-anurag" alt="GitHub Streak"></a
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr-anurag&amp;theme=tokyonight" alt="Top Langs"></p>
 
 
