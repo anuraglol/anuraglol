@@ -1,9 +1,8 @@
 <h1 align="center">Hey 👋, I'm Anurag</h1>
 
-<p align="center">
-    I'm a <strong>Frontend Developer</strong> based in India <br>
-    I'm a 14 y/o guy working towards my wildest dreams!
-</p>
+<h3 align='center'>I'm a <strong>Frontend Developer</strong> based in India </h3>
+<h3 align='center'>I'm a 14 y/o boy working towards my wildest dreams!</h3>
+
 
 <p align="center">    
 - 🔭 I’m currently working on Backend Development <br>
@@ -26,12 +25,27 @@
 
 
 <p align='center'>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material-ui&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&amp;logo=FASTAPI&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt=""> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt=""> 
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt=""> 
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt=""> 
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt=""> 
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt=""> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&amp;logo=material-ui&amp;logoColor=white" alt=""> 
+    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&amp;logo=FASTAPI&amp;logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt="">
 </p>
 
 
 
-<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub Stats"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" alt="GitHub Streak"></a></p>
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub Stats" />
+    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" alt="GitHub Streak" /></a>
+</p>
 
 
 <h2>Oh No!! A Snake eating my contributions!! Help! </h2>
@@ -40,8 +54,11 @@
 <h2 align="center">📁 My Projects:</h2>
     
 <p align='center'>
-<a href="https://github.com/kr-anurag/gradient-deck"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>    
-<a href="https://github.com/kr-anurag/Lyrics-App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=Lyrics-App&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a> <a href="https://github.com/kr-anurag/Emoji-Mania"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=Emoji-Mania&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a> <a href="https://github.com/kr-anurag/react-movie-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=react-movie-app&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/kr-anurag/gradient-deck"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>   
+    
+<a href="https://github.com/kr-anurag/Lyrics-App"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=Lyrics-App&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/kr-anurag/Emoji-Mania"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=Emoji-Mania&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+<a href="https://github.com/kr-anurag/react-movie-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=react-movie-app&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 
  </center>
 </p>
