@@ -3,7 +3,7 @@
 <p align="center">
     I'm a <strong>Frontend Developer</strong> based in India <br>
     I'm a 14 y/o guy working towards my wildest dreams!
-</p>
+ </p>
 
 <p align="center">    
 - 🔭 I’m currently working on Backend Development <br>
