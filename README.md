@@ -20,7 +20,7 @@
 
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=kr-anurag" alt="">
-    <a href="https://github.com/shorwood"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kr-anurag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <a href="https://github.com/kr-anurag"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kr-anurag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://twitter.com/kr_anurag_"><img src="https://img.shields.io/twitter/follow/kr_anurag_?color=black&label=Follow%20me-Twitter&style=for-the-badge" alt=""></a>
 </p>
 
