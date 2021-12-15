@@ -2,9 +2,9 @@
 
 <p align="center">
     I'm a <strong>Frontend Developer</strong> based in India <br>
-    I'm a 14 y/o guy working towards my wildest dreams!
- </p>
-
+    I'm a 14 y/o guy working towards my wildest dreams!    
+</p>
+  
 <p align="center">    
 - 🔭 I’m currently working on Backend Development <br>
 - 🌱 I’m currently learning Firebase 🔥 <br>
@@ -41,3 +41,6 @@
 <a href="https://github.com/kr-anurag/gradient-deck"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>    
  </center>
 </p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/849171428497424404
+                            )](https://discord.com/users/849171428497424404)
