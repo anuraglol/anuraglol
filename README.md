@@ -8,10 +8,11 @@
 <p align="center">    
 - 🔭 I’m currently working on Backend Development <br>
 - 🌱 I’m currently learning Firebase 🔥 <br>
-- 📫 How to reach me: kr.anurag24@gmail.com and <a href="https://twitter.com/kr_anurag_" >Twitter</a> <br>
+- 📫 How to reach me: kr.anurag24@gmail.com and <a href="https://twitter.com/kr_anurag_">Twitter</a> <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Music 🎧 is what that drives me!!  <br>
 - 😇 I'm currently looking for help in Full Stack development <br>
+- and, i write blogs on <a href='#'>hashnode</a>
 </p>
 
 <p align="center">
@@ -20,10 +21,8 @@
 
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=kr-anurag" alt="">
-    <a href="https://github.com/kr-anurag"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kr-anurag?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://twitter.com/kr_anurag_"><img src="https://img.shields.io/twitter/follow/kr_anurag_?color=black&label=Follow%20me-Twitter&style=for-the-badge" alt=""></a>
 </p>
-
 
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt=""> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&amp;logo=FASTAPI&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt=""> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" alt=""> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
