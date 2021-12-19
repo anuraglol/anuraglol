@@ -44,3 +44,5 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/849171428497424404
                             )](https://discord.com/users/849171428497424404)
+                           
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
