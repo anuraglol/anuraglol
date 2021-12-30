@@ -29,10 +29,10 @@
 ## Github Stats ⚡
 
 <a href="https://github.com/kr-anurag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple" witfh="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple" height="160"  witdh="480" />
 </a>
 <a href="https://github.com/kr-anurag">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" witdh="48%" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" height="160" witdh="480" />
 </a>
 
 ## My Latest Articles ✍️
