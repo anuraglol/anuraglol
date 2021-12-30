@@ -26,6 +26,12 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+## Find me around the web 🌐
+
+- [Twitter](https://twitter.com/kr_anurag_)
+- [Github](https://github.com/kr-anurag)
+- [Blog](https://blog.anurag.tech)
+
 ## Github Stats ⚡
 
 <a href="https://github.com/kr-anurag">
