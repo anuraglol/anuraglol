@@ -26,18 +26,21 @@
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-## Github Stats
+## Github Stats ⚡
 
-<img src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple" alt="Anurag&#39;s GitHub Stats"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" alt="GitHub Streak"></a>
+<a href="https://github.com/kr-anurag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=midnight-purple"  height="180" witdh="500" />
+</a>
+<a href="https://github.com/kr-anurag">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" height="180" witdh="500" />
+</a>
 
-## 📁 My Projects
-    
-<a href="https://github.com/avneesh0612/Orbits-UI"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-Ui&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>  
-<a href="https://github.com/kr-anurag/formie"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=formie&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>   
-<a href="https://github.com/kr-anurag/gradient-deck"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>    
+## My Projects  📁
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=shades-of-purple)](https://github.com/avneesh0612/Orbits-UI)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/849171428497424404
-                            )](https://discord.com/users/849171428497424404)
-                           
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=formie&theme=shades-of-purple)](https://github.com/kr-anurag/formie)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=shades-of-purple)](https://github.com/kr-anurag/gradient-deck)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/849171428497424404)](https://discord.com/users/849171428497424404)
