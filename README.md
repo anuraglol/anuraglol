@@ -38,11 +38,11 @@
 ## My Projects  📁
 
 <a href="https://github.com/avneesh0612/Orbits-UI">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=shades-of-purple" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=nightowl" />
 </a>
 
 <a href="https://github.com/kr-anurag/gradient-deck">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=shades-of-purple" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=nightowl" />
 </a>
 
 ## Discord Status 💻
