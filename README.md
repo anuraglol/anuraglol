@@ -38,6 +38,11 @@
 ## My Latest Articles ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 Wrapped!](https://blog.anurag.tech/2021-wrapped)
+- [Authenticate users using Email/Password combination with Supabase in NextJS!](https://blog.anurag.tech/emailpass-auth-in-nextjs-with-supabase)
+- [The two sides of Tech Twitter](https://blog.anurag.tech/the-two-sides-of-tech-twitter)
+- [Get Started with Supabase Database in NextJS! ⚡](https://blog.anurag.tech/get-started-with-supabase-database-in-nextjs)
+- [JSON  - A Quick Guide](https://blog.anurag.tech/json-tour)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Projects  📁
