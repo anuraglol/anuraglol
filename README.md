@@ -45,4 +45,6 @@
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=shades-of-purple" />
 </a>
 
+## Discord Status 💻
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/849171428497424404)](https://discord.com/users/849171428497424404)
