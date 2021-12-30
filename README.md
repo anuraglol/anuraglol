@@ -37,10 +37,12 @@
 
 ## My Projects  📁
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=shades-of-purple)](https://github.com/avneesh0612/Orbits-UI)
+<a href="https://github.com/avneesh0612/Orbits-UI">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=shades-of-purple" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=formie&theme=shades-of-purple)](https://github.com/kr-anurag/formie)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=shades-of-purple)](https://github.com/kr-anurag/gradient-deck)
+<a href="https://github.com/kr-anurag/gradient-deck">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kr-anurag&repo=gradient-deck&theme=shades-of-purple" />
+</a>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/849171428497424404)](https://discord.com/users/849171428497424404)
