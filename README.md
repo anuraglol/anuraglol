@@ -2,6 +2,8 @@
 
 #### I'm a 15 y/o Frontend Developer based in India! I also write blogs sometimes and I love listening to music!
      
+![Banner](./og-image.png)
+     
 - 🔭 I’m currently working on Backend Development <br>
 - 🌱 I’m currently learning everything that i can<br>
 - 📫 How to reach me: kr.anurag24@gmail.com and <a href="https://twitter.com/kr_anurag_">Twitter</a> <br>
