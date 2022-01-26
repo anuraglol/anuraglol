@@ -35,10 +35,10 @@
 ## Github Stats ⚡
 
 <a href="https://github.com/kr-anurag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=outrun" height="160"  witdh="480" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
 </a>
 <a href="https://github.com/kr-anurag">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=outrun" height="160" witdh="480" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" height="160" witdh="480" />
 </a>
 
 ## My Latest Articles ✍️
@@ -54,11 +54,11 @@
 ## My Projects  📁
 
 <a href="https://github.com/avneesh0612/Orbits-UI">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=outrun" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=radical" />
 </a>
 
 <a href="https://github.com/imsaptarshi/vault3">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=imsaptarshi&repo=vault3&theme=outrun" />
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=imsaptarshi&repo=vault3&theme=radical" />
 </a>
 
 ## Discord Status 💻
