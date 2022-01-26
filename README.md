@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Music 🎧 is what that drives me!!  <br>
 - 😇 I'm currently looking for help in Full Stack development <br>
-- and, i write blogs on <a href='#'>hashnode</a>
+- and, i write blogs on <a href='https://blog.anurag.tech'>hashnode</a>
 
 ![yeye](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
 
