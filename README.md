@@ -46,11 +46,11 @@
 ## My Latest Articles ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [How I structure my Next JS Projects](https://blog.anurag.tech/how-i-structure-my-next-js-projects)
 - [💫 Introducing Vault3 - Your safest decentralized vault!](https://blog.anurag.tech/introducing-vault3)
 - [Metamask authentication in NextJS with Third Web](https://blog.anurag.tech/metamask-authentication-in-nextjs-with-third-web)
 - [Component Polymorphism in React](https://blog.anurag.tech/component-polymorphism-in-react)
 - [2021 Wrapped!](https://blog.anurag.tech/2021-wrapped)
-- [Authenticate users using Email/Password combination with Supabase in NextJS!](https://blog.anurag.tech/emailpass-auth-in-nextjs-with-supabase)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Projects  📁
