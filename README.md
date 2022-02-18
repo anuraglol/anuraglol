@@ -53,6 +53,11 @@
 - [2021 Wrapped!](https://blog.anurag.tech/2021-wrapped)
 <!-- BLOG-POST-LIST:END -->
 
+## ⚡ My latest activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ## My Projects  📁
 
 <a href="https://github.com/avneesh0612/Orbits-UI">
