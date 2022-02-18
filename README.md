@@ -56,8 +56,6 @@
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
 ## My Projects  📁
 
 <a href="https://github.com/avneesh0612/Orbits-UI">
