@@ -55,6 +55,12 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/avneesh0612/react-next.js-snippets-atom/pull/3) in [avneesh0612/react-next.js-snippets-atom](https://github.com/avneesh0612/react-next.js-snippets-atom)
+2. ❗️ Closed issue [#7](https://github.com/sahilpabale/noteli/issues/7) in [sahilpabale/noteli](https://github.com/sahilpabale/noteli)
+3. 💪 Opened PR [#38](https://github.com/avneesh0612/react-nextjs-snippets/pull/38) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
+4. 💪 Opened PR [#34](https://github.com/avneesh0612/react-nextjs-snippets/pull/34) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
+5. 💪 Opened PR [#32](https://github.com/avneesh0612/react-nextjs-snippets/pull/32) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
+<!--END_SECTION:activity-->
 
 ## My Projects  📁
 
