@@ -55,11 +55,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/kr-anurag/portfolio/pull/77) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 💪 Opened PR [#3](https://github.com/avneesh0612/react-next.js-snippets-atom/pull/3) in [avneesh0612/react-next.js-snippets-atom](https://github.com/avneesh0612/react-next.js-snippets-atom)
-3. ❗️ Closed issue [#7](https://github.com/sahilpabale/noteli/issues/7) in [sahilpabale/noteli](https://github.com/sahilpabale/noteli)
-4. 💪 Opened PR [#38](https://github.com/avneesh0612/react-nextjs-snippets/pull/38) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
-5. 💪 Opened PR [#34](https://github.com/avneesh0612/react-nextjs-snippets/pull/34) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
+1. 💪 Opened PR [#4](https://github.com/avneesh0612/react-next.js-snippets-atom/pull/4) in [avneesh0612/react-next.js-snippets-atom](https://github.com/avneesh0612/react-next.js-snippets-atom)
+2. 🎉 Merged PR [#77](https://github.com/kr-anurag/portfolio/pull/77) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+3. 💪 Opened PR [#3](https://github.com/avneesh0612/react-next.js-snippets-atom/pull/3) in [avneesh0612/react-next.js-snippets-atom](https://github.com/avneesh0612/react-next.js-snippets-atom)
+4. ❗️ Closed issue [#7](https://github.com/sahilpabale/noteli/issues/7) in [sahilpabale/noteli](https://github.com/sahilpabale/noteli)
+5. 💪 Opened PR [#38](https://github.com/avneesh0612/react-nextjs-snippets/pull/38) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
