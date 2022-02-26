@@ -55,11 +55,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/kr-anurag/portfolio/pull/80) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 🎉 Merged PR [#6](https://github.com/kr-anurag/sponsor/pull/6) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-3. 🎉 Merged PR [#5](https://github.com/kr-anurag/sponsor/pull/5) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-4. 🎉 Merged PR [#13](https://github.com/imsaptarshi/vault3/pull/13) in [imsaptarshi/vault3](https://github.com/imsaptarshi/vault3)
-5. 💪 Opened PR [#13](https://github.com/imsaptarshi/vault3/pull/13) in [imsaptarshi/vault3](https://github.com/imsaptarshi/vault3)
+1. ❌ Closed PR [#12](https://github.com/imsaptarshi/vault3/pull/12) in [imsaptarshi/vault3](https://github.com/imsaptarshi/vault3)
+2. 🎉 Merged PR [#80](https://github.com/kr-anurag/portfolio/pull/80) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+3. 🎉 Merged PR [#6](https://github.com/kr-anurag/sponsor/pull/6) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+4. 🎉 Merged PR [#5](https://github.com/kr-anurag/sponsor/pull/5) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+5. 🎉 Merged PR [#13](https://github.com/imsaptarshi/vault3/pull/13) in [imsaptarshi/vault3](https://github.com/imsaptarshi/vault3)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
