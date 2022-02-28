@@ -55,11 +55,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com/genicsblog/genicsblog.com/pull/115) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-2. 🎉 Merged PR [#81](https://github.com/kr-anurag/portfolio/pull/81) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. 💪 Opened PR [#81](https://github.com/kr-anurag/portfolio/pull/81) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. ❌ Closed PR [#12](https://github.com/imsaptarshi/vault3/pull/12) in [imsaptarshi/vault3](https://github.com/imsaptarshi/vault3)
-5. 🎉 Merged PR [#80](https://github.com/kr-anurag/portfolio/pull/80) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+1. 💪 Opened PR [#49](https://github.com/avneesh0612/react-nextjs-snippets/pull/49) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
+2. 💪 Opened PR [#115](https://github.com/genicsblog/genicsblog.com/pull/115) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+3. 🎉 Merged PR [#81](https://github.com/kr-anurag/portfolio/pull/81) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 💪 Opened PR [#81](https://github.com/kr-anurag/portfolio/pull/81) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. ❌ Closed PR [#12](https://github.com/imsaptarshi/vault3/pull/12) in [imsaptarshi/vault3](https://github.com/imsaptarshi/vault3)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
