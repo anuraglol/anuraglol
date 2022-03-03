@@ -55,11 +55,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#83](https://github.com/kr-anurag/portfolio/issues/83) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 🎉 Merged PR [#82](https://github.com/kr-anurag/portfolio/pull/82) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. ❗️ Opened issue [#83](https://github.com/kr-anurag/portfolio/issues/83) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 💪 Opened PR [#82](https://github.com/kr-anurag/portfolio/pull/82) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-5. 💪 Opened PR [#49](https://github.com/avneesh0612/react-nextjs-snippets/pull/49) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
+1. 🎉 Merged PR [#84](https://github.com/kr-anurag/portfolio/pull/84) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+2. 💪 Opened PR [#84](https://github.com/kr-anurag/portfolio/pull/84) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+3. ❗️ Closed issue [#83](https://github.com/kr-anurag/portfolio/issues/83) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 🎉 Merged PR [#82](https://github.com/kr-anurag/portfolio/pull/82) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. ❗️ Opened issue [#83](https://github.com/kr-anurag/portfolio/issues/83) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
