@@ -55,11 +55,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/kr-anurag/portfolio/pull/84) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 💪 Opened PR [#84](https://github.com/kr-anurag/portfolio/pull/84) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. ❗️ Closed issue [#83](https://github.com/kr-anurag/portfolio/issues/83) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 🎉 Merged PR [#82](https://github.com/kr-anurag/portfolio/pull/82) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-5. ❗️ Opened issue [#83](https://github.com/kr-anurag/portfolio/issues/83) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+1. 🎉 Merged PR [#7](https://github.com/kr-anurag/sponsor/pull/7) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+2. 💪 Opened PR [#7](https://github.com/kr-anurag/sponsor/pull/7) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+3. 🎉 Merged PR [#84](https://github.com/kr-anurag/portfolio/pull/84) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 💪 Opened PR [#84](https://github.com/kr-anurag/portfolio/pull/84) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. ❗️ Closed issue [#83](https://github.com/kr-anurag/portfolio/issues/83) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
