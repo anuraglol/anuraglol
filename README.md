@@ -55,11 +55,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/kr-anurag/portfolio/pull/85) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 💪 Opened PR [#85](https://github.com/kr-anurag/portfolio/pull/85) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. 🎉 Merged PR [#7](https://github.com/kr-anurag/sponsor/pull/7) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-4. 💪 Opened PR [#7](https://github.com/kr-anurag/sponsor/pull/7) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-5. 🎉 Merged PR [#84](https://github.com/kr-anurag/portfolio/pull/84) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+1. 💪 Opened PR [#4](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/4) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
+2. 🎉 Merged PR [#85](https://github.com/kr-anurag/portfolio/pull/85) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+3. 💪 Opened PR [#85](https://github.com/kr-anurag/portfolio/pull/85) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 🎉 Merged PR [#7](https://github.com/kr-anurag/sponsor/pull/7) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+5. 💪 Opened PR [#7](https://github.com/kr-anurag/sponsor/pull/7) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
