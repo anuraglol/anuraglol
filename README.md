@@ -16,17 +16,11 @@
 
 ## Skills 🚀
 
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp)
-![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white)
-![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&amp;logo=FASTAPI&amp;logoColor=white)
-![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white)
-![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,solidity,nodejs,sass,tailwindcss,react,nextjs,firebase,supabase,figma,vscode,git" />
+  </a>
+</p>
 
 ## Find me around the web 🌐
 
