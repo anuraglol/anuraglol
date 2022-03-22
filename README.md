@@ -52,8 +52,8 @@
 1. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 2. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 3. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 💪 Opened PR [#458](https://github.com/fontsource/fontsource/pull/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 🎉 Merged PR [#87](https://github.com/kr-anurag/portfolio/pull/87) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 💪 Opened PR [#458](https://github.com/fontsource/fontsource/pull/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
