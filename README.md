@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#49](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/49) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
 2. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 3. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 4. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. 💪 Opened PR [#458](https://github.com/fontsource/fontsource/pull/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
