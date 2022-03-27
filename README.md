@@ -49,9 +49,9 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. 💪 Opened PR [#49](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/49) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
-3. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#25](https://github.com/avneesh0612/thirdsnips/pull/25) in [avneesh0612/thirdsnips](https://github.com/avneesh0612/thirdsnips)
+2. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. 💪 Opened PR [#49](https://github.com/dailydotdev/hackathon-participants-March-2022/pull/49) in [dailydotdev/hackathon-participants-March-2022](https://github.com/dailydotdev/hackathon-participants-March-2022)
 4. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 5. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 <!--END_SECTION:activity-->
