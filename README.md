@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/avneesh0612/thirdsnips/pull/26) in [avneesh0612/thirdsnips](https://github.com/avneesh0612/thirdsnips)
-2. 🎉 Merged PR [#88](https://github.com/kr-anurag/portfolio/pull/88) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. 💪 Opened PR [#88](https://github.com/kr-anurag/portfolio/pull/88) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 💪 Opened PR [#25](https://github.com/avneesh0612/thirdsnips/pull/25) in [avneesh0612/thirdsnips](https://github.com/avneesh0612/thirdsnips)
-5. 🗣 Commented on [#458](https://github.com/fontsource/fontsource/issues/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#28](https://github.com/avneesh0612/thirdsnips/pull/28) in [avneesh0612/thirdsnips](https://github.com/avneesh0612/thirdsnips)
+2. 💪 Opened PR [#26](https://github.com/avneesh0612/thirdsnips/pull/26) in [avneesh0612/thirdsnips](https://github.com/avneesh0612/thirdsnips)
+3. 🎉 Merged PR [#88](https://github.com/kr-anurag/portfolio/pull/88) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 💪 Opened PR [#88](https://github.com/kr-anurag/portfolio/pull/88) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. 💪 Opened PR [#25](https://github.com/avneesh0612/thirdsnips/pull/25) in [avneesh0612/thirdsnips](https://github.com/avneesh0612/thirdsnips)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
