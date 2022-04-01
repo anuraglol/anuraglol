@@ -58,13 +58,10 @@
 
 ## My Projects  📁
 
-<a href="https://github.com/avneesh0612/Orbits-UI">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=avneesh0612&repo=Orbits-UI&theme=radical" />
-</a>
-
-<a href="https://github.com/imsaptarshi/vault3">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=imsaptarshi&repo=vault3&theme=radical" />
-</a>
+- [**vault3**](https://vault3.live): The most secure way to store your private data, on chain!
+- [**thirdsnips**](https://thirdsnips.live): a vscode extension providing all snippets from the thirdweb portal, built with my frens
+- [**orbits ui**](https://orbits-ui.com): a react component library built on top of tailwindcss, built with my frens
+- [**react-n-next.js-snippets**](https://react-next-snippets.co/): another vscode extension providing a bunch of snippets related to nextjs and react, built with my frens
 
 ## Discord Status 💻
 
