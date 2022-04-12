@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/shivani7q/ETH_my_Song/pull/3) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
-2. ❌ Closed PR [#93](https://github.com/kr-anurag/portfolio/pull/93) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. 💪 Opened PR [#93](https://github.com/kr-anurag/portfolio/pull/93) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 🎉 Merged PR [#92](https://github.com/kr-anurag/portfolio/pull/92) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-5. 🎉 Merged PR [#91](https://github.com/kr-anurag/portfolio/pull/91) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+1. 🎉 Merged PR [#94](https://github.com/kr-anurag/portfolio/pull/94) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+2. ❌ Closed PR [#3](https://github.com/shivani7q/ETH_my_Song/pull/3) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
+3. ❌ Closed PR [#93](https://github.com/kr-anurag/portfolio/pull/93) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 💪 Opened PR [#93](https://github.com/kr-anurag/portfolio/pull/93) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. 🎉 Merged PR [#92](https://github.com/kr-anurag/portfolio/pull/92) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
