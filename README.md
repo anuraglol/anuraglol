@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/kr-anurag/sponsor/pull/10) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-2. 🎉 Merged PR [#9](https://github.com/kr-anurag/sponsor/pull/9) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-3. ❗️ Closed issue [#8](https://github.com/kr-anurag/sponsor/issues/8) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-4. 💪 Opened PR [#9](https://github.com/kr-anurag/sponsor/pull/9) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-5. 🎉 Merged PR [#94](https://github.com/kr-anurag/portfolio/pull/94) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+1. ❌ Closed PR [#458](https://github.com/fontsource/fontsource/pull/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+2. 🎉 Merged PR [#10](https://github.com/kr-anurag/sponsor/pull/10) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+3. 🎉 Merged PR [#9](https://github.com/kr-anurag/sponsor/pull/9) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+4. ❗️ Closed issue [#8](https://github.com/kr-anurag/sponsor/issues/8) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+5. 💪 Opened PR [#9](https://github.com/kr-anurag/sponsor/pull/9) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
