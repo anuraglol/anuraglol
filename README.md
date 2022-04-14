@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#477](https://github.com/fontsource/fontsource/pull/477) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-2. ❌ Closed PR [#458](https://github.com/fontsource/fontsource/pull/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🎉 Merged PR [#10](https://github.com/kr-anurag/sponsor/pull/10) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-4. 🎉 Merged PR [#9](https://github.com/kr-anurag/sponsor/pull/9) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
-5. ❗️ Closed issue [#8](https://github.com/kr-anurag/sponsor/issues/8) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+1. ❌ Closed PR [#49](https://github.com/avneesh0612/react-nextjs-snippets/pull/49) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
+2. 💪 Opened PR [#477](https://github.com/fontsource/fontsource/pull/477) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+3. ❌ Closed PR [#458](https://github.com/fontsource/fontsource/pull/458) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+4. 🎉 Merged PR [#10](https://github.com/kr-anurag/sponsor/pull/10) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
+5. 🎉 Merged PR [#9](https://github.com/kr-anurag/sponsor/pull/9) in [kr-anurag/sponsor](https://github.com/kr-anurag/sponsor)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
