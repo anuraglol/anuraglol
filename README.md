@@ -6,7 +6,7 @@
      
 - 🔭 I’m currently working on Backend Development <br>
 - 🌱 I’m currently learning everything that i can<br>
-- 📫 How to reach me: kr.anurag24@gmail.com and <a href="https://twitter.com/kr_anurag_">Twitter</a> <br>
+- 📫 How to reach me: kr.anurag24@gmail.com and <a href="https://twitter.com/imanuraglol">Twitter</a> <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Music 🎧 is what that drives me!!  <br>
 - 😇 I'm currently looking for help in Full Stack development <br>
@@ -24,7 +24,7 @@
 
 ## Find me around the web 🌐
 
-- [Twitter](https://twitter.com/kr_anurag_)
+- [Twitter](https://twitter.com/imanuraglol)
 - [Github](https://github.com/kr-anurag)
 - [Blog](https://blog.anurag.tech)
 
