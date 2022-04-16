@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/kr-anurag/portfolio/pull/96) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 🎉 Merged PR [#95](https://github.com/kr-anurag/portfolio/pull/95) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. 💪 Opened PR [#21](https://github.com/Metapass/metapass-v2/pull/21) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. ❌ Closed PR [#49](https://github.com/avneesh0612/react-nextjs-snippets/pull/49) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
-5. 💪 Opened PR [#477](https://github.com/fontsource/fontsource/pull/477) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#1](https://github.com/Metapass/metapass/pull/1) in [Metapass/metapass](https://github.com/Metapass/metapass)
+2. 🎉 Merged PR [#96](https://github.com/kr-anurag/portfolio/pull/96) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+3. 🎉 Merged PR [#95](https://github.com/kr-anurag/portfolio/pull/95) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 💪 Opened PR [#21](https://github.com/Metapass/metapass-v2/pull/21) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. ❌ Closed PR [#49](https://github.com/avneesh0612/react-nextjs-snippets/pull/49) in [avneesh0612/react-nextjs-snippets](https://github.com/avneesh0612/react-nextjs-snippets)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
