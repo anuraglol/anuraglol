@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/Metapass/metapass-v2/pull/22) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#1](https://github.com/Metapass/metapass/pull/1) in [Metapass/metapass](https://github.com/Metapass/metapass)
-3. 🎉 Merged PR [#96](https://github.com/kr-anurag/portfolio/pull/96) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 🎉 Merged PR [#95](https://github.com/kr-anurag/portfolio/pull/95) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-5. 💪 Opened PR [#21](https://github.com/Metapass/metapass-v2/pull/21) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 💪 Opened PR [#24](https://github.com/Metapass/metapass-v2/pull/24) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 💪 Opened PR [#23](https://github.com/Metapass/metapass-v2/pull/23) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 💪 Opened PR [#22](https://github.com/Metapass/metapass-v2/pull/22) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 💪 Opened PR [#1](https://github.com/Metapass/metapass/pull/1) in [Metapass/metapass](https://github.com/Metapass/metapass)
+5. 🎉 Merged PR [#96](https://github.com/kr-anurag/portfolio/pull/96) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
