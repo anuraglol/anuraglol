@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/kr-anurag/portfolio/pull/99) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 💪 Opened PR [#99](https://github.com/kr-anurag/portfolio/pull/99) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. 🎉 Merged PR [#98](https://github.com/kr-anurag/portfolio/pull/98) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 🎉 Merged PR [#97](https://github.com/kr-anurag/portfolio/pull/97) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-5. 🎉 Merged PR [#27](https://github.com/Metapass/metapass-v2/pull/27) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🎉 Merged PR [#100](https://github.com/kr-anurag/portfolio/pull/100) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+2. 🎉 Merged PR [#99](https://github.com/kr-anurag/portfolio/pull/99) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+3. 💪 Opened PR [#99](https://github.com/kr-anurag/portfolio/pull/99) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 🎉 Merged PR [#98](https://github.com/kr-anurag/portfolio/pull/98) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. 🎉 Merged PR [#97](https://github.com/kr-anurag/portfolio/pull/97) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
