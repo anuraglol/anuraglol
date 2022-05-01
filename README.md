@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/genicsblog/genicsblog.com/issues/93) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-2. 🎉 Merged PR [#101](https://github.com/kr-anurag/portfolio/pull/101) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-3. 🎉 Merged PR [#100](https://github.com/kr-anurag/portfolio/pull/100) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 🎉 Merged PR [#99](https://github.com/kr-anurag/portfolio/pull/99) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-5. 💪 Opened PR [#99](https://github.com/kr-anurag/portfolio/pull/99) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+1. 💪 Opened PR [#8](https://github.com/avneesh0612/snipli/pull/8) in [avneesh0612/snipli](https://github.com/avneesh0612/snipli)
+2. 🗣 Commented on [#93](https://github.com/genicsblog/genicsblog.com/issues/93) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+3. 🎉 Merged PR [#101](https://github.com/kr-anurag/portfolio/pull/101) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+4. 🎉 Merged PR [#100](https://github.com/kr-anurag/portfolio/pull/100) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. 🎉 Merged PR [#99](https://github.com/kr-anurag/portfolio/pull/99) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
