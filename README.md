@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/kr-anurag/portfolio/pull/106) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-2. 💪 Opened PR [#2](https://github.com/Vampo7152/gatelinks/pull/2) in [Vampo7152/gatelinks](https://github.com/Vampo7152/gatelinks)
-3. 💪 Opened PR [#3](https://github.com/buidler-hub/nftank-frontend/pull/3) in [buidler-hub/nftank-frontend](https://github.com/buidler-hub/nftank-frontend)
-4. 💪 Opened PR [#2](https://github.com/buidler-hub/nftank-frontend/pull/2) in [buidler-hub/nftank-frontend](https://github.com/buidler-hub/nftank-frontend)
-5. 💪 Opened PR [#1](https://github.com/buidler-hub/nftank-frontend/pull/1) in [buidler-hub/nftank-frontend](https://github.com/buidler-hub/nftank-frontend)
+1. 💪 Opened PR [#1](https://github.com/buidler-hub/projects/pull/1) in [buidler-hub/projects](https://github.com/buidler-hub/projects)
+2. 💪 Opened PR [#106](https://github.com/kr-anurag/portfolio/pull/106) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+3. 💪 Opened PR [#2](https://github.com/Vampo7152/gatelinks/pull/2) in [Vampo7152/gatelinks](https://github.com/Vampo7152/gatelinks)
+4. 💪 Opened PR [#3](https://github.com/buidler-hub/nftank-frontend/pull/3) in [buidler-hub/nftank-frontend](https://github.com/buidler-hub/nftank-frontend)
+5. 💪 Opened PR [#2](https://github.com/buidler-hub/nftank-frontend/pull/2) in [buidler-hub/nftank-frontend](https://github.com/buidler-hub/nftank-frontend)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
