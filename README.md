@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/thirdweb-dev/docs/pull/71) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-2. 💪 Opened PR [#1](https://github.com/buidler-hub/projects/pull/1) in [buidler-hub/projects](https://github.com/buidler-hub/projects)
-3. 💪 Opened PR [#106](https://github.com/kr-anurag/portfolio/pull/106) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
-4. 💪 Opened PR [#2](https://github.com/Vampo7152/gatelinks/pull/2) in [Vampo7152/gatelinks](https://github.com/Vampo7152/gatelinks)
-5. 💪 Opened PR [#3](https://github.com/buidler-hub/nftank-frontend/pull/3) in [buidler-hub/nftank-frontend](https://github.com/buidler-hub/nftank-frontend)
+1. 💪 Opened PR [#1](https://github.com/Kira272921/portfolio/pull/1) in [Kira272921/portfolio](https://github.com/Kira272921/portfolio)
+2. 💪 Opened PR [#71](https://github.com/thirdweb-dev/docs/pull/71) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+3. 💪 Opened PR [#1](https://github.com/buidler-hub/projects/pull/1) in [buidler-hub/projects](https://github.com/buidler-hub/projects)
+4. 💪 Opened PR [#106](https://github.com/kr-anurag/portfolio/pull/106) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+5. 💪 Opened PR [#2](https://github.com/Vampo7152/gatelinks/pull/2) in [Vampo7152/gatelinks](https://github.com/Vampo7152/gatelinks)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
