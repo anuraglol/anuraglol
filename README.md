@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/shivani7q/ETH_my_Song/pull/4) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
-2. 💪 Opened PR [#1](https://github.com/Kira272921/portfolio/pull/1) in [Kira272921/portfolio](https://github.com/Kira272921/portfolio)
-3. 💪 Opened PR [#71](https://github.com/thirdweb-dev/docs/pull/71) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
-4. 💪 Opened PR [#1](https://github.com/buidler-hub/projects/pull/1) in [buidler-hub/projects](https://github.com/buidler-hub/projects)
-5. 💪 Opened PR [#106](https://github.com/kr-anurag/portfolio/pull/106) in [kr-anurag/portfolio](https://github.com/kr-anurag/portfolio)
+1. 🎉 Merged PR [#4](https://github.com/shivani7q/ETH_my_Song/pull/4) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
+2. 💪 Opened PR [#4](https://github.com/shivani7q/ETH_my_Song/pull/4) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
+3. 💪 Opened PR [#1](https://github.com/Kira272921/portfolio/pull/1) in [Kira272921/portfolio](https://github.com/Kira272921/portfolio)
+4. 💪 Opened PR [#71](https://github.com/thirdweb-dev/docs/pull/71) in [thirdweb-dev/docs](https://github.com/thirdweb-dev/docs)
+5. 💪 Opened PR [#1](https://github.com/buidler-hub/projects/pull/1) in [buidler-hub/projects](https://github.com/buidler-hub/projects)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
