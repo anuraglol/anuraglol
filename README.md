@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
-2. 💪 Opened PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
-3. ❗️ Opened issue [#504](https://github.com/fontsource/fontsource/issues/504) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🎉 Merged PR [#20](https://github.com/buidler-hub/website/pull/20) in [buidler-hub/website](https://github.com/buidler-hub/website)
-5. 🗣 Commented on [#20](https://github.com/buidler-hub/website/issues/20) in [buidler-hub/website](https://github.com/buidler-hub/website)
+1. 💪 Opened PR [#6](https://github.com/buidler-hub/solkudos/pull/6) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
+2. 🎉 Merged PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
+3. 💪 Opened PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
+4. ❗️ Opened issue [#504](https://github.com/fontsource/fontsource/issues/504) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+5. 🎉 Merged PR [#20](https://github.com/buidler-hub/website/pull/20) in [buidler-hub/website](https://github.com/buidler-hub/website)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
