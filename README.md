@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/buidler-hub/solkudos/pull/5) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
-2. 💪 Opened PR [#6](https://github.com/buidler-hub/solkudos/pull/6) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
-3. 🎉 Merged PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
-4. 💪 Opened PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
-5. ❗️ Opened issue [#504](https://github.com/fontsource/fontsource/issues/504) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 💪 Opened PR [#31](https://github.com/Metapass/metapass-v2/pull/31) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 🎉 Merged PR [#5](https://github.com/buidler-hub/solkudos/pull/5) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
+3. 💪 Opened PR [#6](https://github.com/buidler-hub/solkudos/pull/6) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
+4. 🎉 Merged PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
+5. 💪 Opened PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
