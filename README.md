@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/Metapass/metapass-v2/pull/32) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#31](https://github.com/Metapass/metapass-v2/pull/31) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🎉 Merged PR [#5](https://github.com/buidler-hub/solkudos/pull/5) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
-4. 💪 Opened PR [#6](https://github.com/buidler-hub/solkudos/pull/6) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
-5. 🎉 Merged PR [#5](https://github.com/shivani7q/ETH_my_Song/pull/5) in [shivani7q/ETH_my_Song](https://github.com/shivani7q/ETH_my_Song)
+1. 🎉 Merged PR [#1](https://github.com/kr-anurag/page-progressbar/pull/1) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+2. 💪 Opened PR [#1](https://github.com/kr-anurag/page-progressbar/pull/1) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+3. 💪 Opened PR [#32](https://github.com/Metapass/metapass-v2/pull/32) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 💪 Opened PR [#31](https://github.com/Metapass/metapass-v2/pull/31) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🎉 Merged PR [#5](https://github.com/buidler-hub/solkudos/pull/5) in [buidler-hub/solkudos](https://github.com/buidler-hub/solkudos)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
