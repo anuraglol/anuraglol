@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/kr-anurag/page-progressbar/issues/3) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-2. ❗️ Opened issue [#2](https://github.com/kr-anurag/page-progressbar/issues/2) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-3. 🎉 Merged PR [#1](https://github.com/kr-anurag/page-progressbar/pull/1) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-4. 💪 Opened PR [#1](https://github.com/kr-anurag/page-progressbar/pull/1) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-5. 💪 Opened PR [#32](https://github.com/Metapass/metapass-v2/pull/32) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. ❗️ Closed issue [#2](https://github.com/kr-anurag/page-progressbar/issues/2) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+2. ❗️ Opened issue [#3](https://github.com/kr-anurag/page-progressbar/issues/3) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+3. ❗️ Opened issue [#2](https://github.com/kr-anurag/page-progressbar/issues/2) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+4. 🎉 Merged PR [#1](https://github.com/kr-anurag/page-progressbar/pull/1) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+5. 💪 Opened PR [#1](https://github.com/kr-anurag/page-progressbar/pull/1) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
