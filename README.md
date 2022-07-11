@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/kr-anurag/page-progressbar/pull/4) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-2. ❗️ Closed issue [#3](https://github.com/kr-anurag/page-progressbar/issues/3) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-3. 🎉 Merged PR [#51](https://github.com/buidler-hub/snipli/pull/51) in [buidler-hub/snipli](https://github.com/buidler-hub/snipli)
-4. 🎉 Merged PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 💪 Opened PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🎉 Merged PR [#6](https://github.com/kr-anurag/page-progressbar/pull/6) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+2. 🎉 Merged PR [#4](https://github.com/kr-anurag/page-progressbar/pull/4) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+3. ❗️ Closed issue [#3](https://github.com/kr-anurag/page-progressbar/issues/3) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+4. 🎉 Merged PR [#51](https://github.com/buidler-hub/snipli/pull/51) in [buidler-hub/snipli](https://github.com/buidler-hub/snipli)
+5. 🎉 Merged PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
