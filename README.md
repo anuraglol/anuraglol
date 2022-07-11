@@ -49,11 +49,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 💪 Opened PR [#34](https://github.com/Metapass/metapass-v2/pull/34) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 💪 Opened PR [#33](https://github.com/Metapass/metapass-v2/pull/33) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 🎉 Merged PR [#5](https://github.com/kr-anurag/page-progressbar/pull/5) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
+1. 🎉 Merged PR [#51](https://github.com/buidler-hub/snipli/pull/51) in [buidler-hub/snipli](https://github.com/buidler-hub/snipli)
+2. 🎉 Merged PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 💪 Opened PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 💪 Opened PR [#34](https://github.com/Metapass/metapass-v2/pull/34) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 💪 Opened PR [#33](https://github.com/Metapass/metapass-v2/pull/33) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁
