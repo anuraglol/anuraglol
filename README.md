@@ -1,17 +1,9 @@
 # Hey There👋, I'm [Anurag](https://bio.link/anuragkr)
 
-#### I'm a 15 y/o Frontend Developer based in India! I also write blogs sometimes and I love listening to music!
+#### I'm a proficeient Frontend Enginner and currently surfin' around web3.
      
 ![Banner](./og-image.png)
      
-- 🔭 I’m currently working on Backend Development <br>
-- 🌱 I’m currently learning everything that i can<br>
-- 📫 How to reach me: kr.anurag24@gmail.com and <a href="https://twitter.com/imanuraglol">Twitter</a> <br>
-- 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: Music 🎧 is what that drives me!!  <br>
-- 😇 I'm currently looking for help in Full Stack development <br>
-- and, i write blogs on <a href='https://blog.anurag.tech'>hashnode</a>
-
 ![yeye](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
 
 ## Skills 🚀
@@ -37,31 +29,13 @@
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" height="160" witdh="480" />
 </a>
 
-## My Latest Articles ✍️
-
-<!-- BLOG-POST-LIST:START -->
-- [Basics of E2E Testing and Integrating Cypress with Next.js](https://blog.anurag.tech/basics-of-e2e-testing-and-integrating-cypress-with-nextjs)
-- [How I structure my Next JS Projects](https://blog.anurag.tech/how-i-structure-my-next-js-projects)
-- [💫 Introducing Vault3 - Your safest decentralized vault!](https://blog.anurag.tech/introducing-vault3)
-- [Metamask authentication in NextJS with Third Web](https://blog.anurag.tech/metamask-authentication-in-nextjs-with-third-web)
-- [Component Polymorphism in React](https://blog.anurag.tech/component-polymorphism-in-react)
-<!-- BLOG-POST-LIST:END -->
-
-## ⚡ My latest activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/kr-anurag/page-progressbar/pull/6) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-2. 🎉 Merged PR [#4](https://github.com/kr-anurag/page-progressbar/pull/4) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-3. ❗️ Closed issue [#3](https://github.com/kr-anurag/page-progressbar/issues/3) in [kr-anurag/page-progressbar](https://github.com/kr-anurag/page-progressbar)
-4. 🎉 Merged PR [#51](https://github.com/buidler-hub/snipli/pull/51) in [buidler-hub/snipli](https://github.com/buidler-hub/snipli)
-5. 🎉 Merged PR [#35](https://github.com/Metapass/metapass-v2/pull/35) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-<!--END_SECTION:activity-->
-
 ## My Projects  📁
 
 - [**vault3**](https://vault3.live): The most secure way to store your private data, on chain!
 - [**thirdsnips**](https://thirdsnips.live): a vscode extension providing all snippets from the thirdweb portal, built with my frens
-- [**orbits ui**](https://orbits-ui.com): a react component library built on top of tailwindcss, built with my frens
 - [**react-n-next.js-snippets**](https://react-next-snippets.co/): another vscode extension providing a bunch of snippets related to nextjs and react, built with my frens
+- [**snipli**](https://snipli.xyz/): a command-line interface for quickly sharing code snippets of your local files
+- [**page-progressbar-react**](https://github.com/kr-anurag/page-progressbar-react): a react component to show the scroll progress of a page, using framer motion.
 
 ## Discord Status 💻
 
