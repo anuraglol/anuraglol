@@ -2,8 +2,6 @@
 
 #### I'm a proficeient Frontend Enginner and currently surfin' around web3.
      
-![Banner](./og-image.png)
-     
 ![yeye](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
 
 ## Skills 🚀
