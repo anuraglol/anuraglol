@@ -34,9 +34,3 @@
 - [**react-n-next.js-snippets**](https://react-next-snippets.co/): another vscode extension providing a bunch of snippets related to nextjs and react, built with my frens
 - [**snipli**](https://snipli.xyz/): a command-line interface for quickly sharing code snippets of your local files
 - [**page-progressbar-react**](https://github.com/kr-anurag/page-progressbar-react): a react component to show the scroll progress of a page, using framer motion.
-
-## Discord Status 💻
-
-<a href="https://discord.com/users/849171428497424404">
-     <img src="https://lanyard.cnrad.dev/api/849171428497424404" width="400" height="200" />
-</a>
