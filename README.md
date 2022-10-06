@@ -18,15 +18,6 @@
 - [Github](https://github.com/kr-anurag)
 - [Blog](https://blog.anurag.tech)
 
-## Github Stats ⚡
-
-<a href="https://github.com/kr-anurag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-anurag&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
-</a>
-<a href="https://github.com/kr-anurag">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=kr-anurag&theme=radical" height="160" witdh="480" />
-</a>
-
 ## My Projects  📁
 
 - [**vault3**](https://vault3.live): The most secure way to store your private data, on chain!
