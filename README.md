@@ -15,7 +15,7 @@
 ## Find me around the web 🌐
 
 - [Twitter](https://twitter.com/imanuraglol)
-- [Github](https://github.com/kr-anurag)
+- [Github](https://github.com/anuraglol)
 - [Blog](https://blog.anurag.tech)
 
 ## My Projects  📁
