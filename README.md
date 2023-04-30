@@ -8,14 +8,14 @@ Below is a list of things that I've worked upon, and are publicly sourced. Hope 
 
 - apps
   - [@candypay/elements](https://github.com/candypay/elements) - Payment components for candypay checkout, a checkout solution leveraging solana pay.
-  - [@candypay/caramel](https://github.com/candypay/caramel) - A POW app that showcases the usage of candypay checkout, to monetize github packages.
+  - [@candypay/caramel](https://github.com/candypay/caramel) - POW showcasing the usage of candypay checkout to monetize github packages.
   - [metapass](https://github.com/Metapass/metapass-v2) - Onchain NFT ticketing for events, built upon Polygon and Solana.
   - [thirdvault](https://github.com/anuraglol/thirdvault) - An onchain vault built upon Polygon, powered by IPFS and [thirdweb](https://thirdweb.com/).
   - [nft-generation-service](https://github.com/anuraglol/nas-summit-nft-gen) - An Image generation service, which was used to generate completion NFTs in [nas summit](https://www.nassummit.com/), using [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation)
   - [snipli's website](https://github.com/buidler-hub/snipli-website) - Website for [snipli](https://snipli.xyz), a cli tool to convert your local files into github gists.
  
 - extensions
-  - [react and nextjs snippets](https://github.com/avneesh0612/react-nextjs-snippets) - A VSCode extension packed with a bunch of React and Next.js snippets, used by over 6k+ people.
+  - [react and nextjs snippets](https://github.com/avneesh0612/react-nextjs-snippets) - A VSCode extension packed with a bunch of React and Next.js snippets, used by over 6k people.
   - [thirdsnips](https://github.com/avneesh0612/thirdsnips) - Another VSCode extension providing snippets from the [thirdweb](https://thirdweb.com/) portal. [unmaintained]
   
 - libraries
